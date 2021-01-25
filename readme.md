@@ -2,10 +2,19 @@
 
 
 
-Deployment: 
+Deployment: Heroku
+Heroku Login
 
-Heroku
+
+
 heroku keys:add
+
 heroku create jmediche-weather-app
+
 git push heroku main
-https://jmediche-weather-app.herokuapp.com/
+
+
+
+
+
+Weather App Deployed URL : https://jmediche-weather-app.herokuapp.com/
